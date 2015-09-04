@@ -1,0 +1,28 @@
+{
+  "name": "glint-trigger-keyboard",
+  "version": "1.0.0",
+  "description": "glint keyboard trigger for [load, edit, save, cancel] commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andi Neck",
+  "License": "MIT",
+  "dependencies": {
+    "keyboard-shortcut": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glintcms/glint-trigger-keyboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glintcms/glint-trigger-keyboard/issues"
+  },
+  "homepage": "https://github.com/glintcms/glint-trigger-keyboard",
+  "license": "MIT",
+  "keywords": [
+    "glint",
+    "trigger",
+    "keyboard"
+  ]
+}
