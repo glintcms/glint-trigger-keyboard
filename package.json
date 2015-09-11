@@ -9,7 +9,11 @@
   "author": "Andi Neck",
   "License": "MIT",
   "dependencies": {
-    "keyboard-shortcut": "^1.2.0"
+    "debug": "^2.2.0",
+    "glint-trigger": "^1.0.0",
+    "inherits": "^2.0.1",
+    "keyboard-shortcut": "^1.2.0",
+    "utils-merge": "^1.0.0"
   },
   "repository": {
     "type": "git",
