@@ -1,6 +1,6 @@
 {
   "name": "glint-trigger-keyboard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "glint keyboard trigger for [load, edit, save, cancel] commands",
   "main": "index.js",
   "scripts": {
