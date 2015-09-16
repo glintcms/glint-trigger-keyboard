@@ -1,9 +1,9 @@
 /**
  * Module dependencies.
  */
+var debug = require('debug')('glint-trigger-keyboard');
 var Trigger = require('glint-trigger');
 var key = require('keyboard-shortcut');
-var debug = require('debug')('glint:keyboard');
 var merge = require('utils-merge');
 var inherits = require('inherits');
 var c = require('./config');
